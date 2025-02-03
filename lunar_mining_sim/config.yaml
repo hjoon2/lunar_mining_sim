@@ -1,0 +1,8 @@
+simulation:
+  # Operational parameters
+  trucks: 5
+  stations: 1
+
+  # Default logging configuration
+  logging:
+    level: INFO
