@@ -15,7 +15,7 @@ A Python simulation of lunar mining operations, modeling the interaction between
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/lunar-mining-sim.git
+git clone https://github.com/hjoon2/lunar_mining_sim.git
 cd lunar-mining-sim
 ```
 
