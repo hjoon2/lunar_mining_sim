@@ -1,0 +1,1017 @@
+{
+    "simulation_duration": 4320,
+    "trucks": [
+        {
+            "id": 0,
+            "number_of_unloads": 0,
+            "mining_time": 189,
+            "travel_time": 0,
+            "unload_time": 0,
+            "wait_time": 4132
+        },
+        {
+            "id": 1,
+            "number_of_unloads": 16,
+            "mining_time": 3152,
+            "travel_time": 930,
+            "unload_time": 80,
+            "wait_time": 65
+        },
+        {
+            "id": 2,
+            "number_of_unloads": 19,
+            "mining_time": 3041,
+            "travel_time": 1140,
+            "unload_time": 95,
+            "wait_time": 42
+        },
+        {
+            "id": 3,
+            "number_of_unloads": 18,
+            "mining_time": 3025,
+            "travel_time": 1050,
+            "unload_time": 90,
+            "wait_time": 88
+        },
+        {
+            "id": 4,
+            "number_of_unloads": 15,
+            "mining_time": 3261,
+            "travel_time": 870,
+            "unload_time": 75,
+            "wait_time": 73
+        },
+        {
+            "id": 5,
+            "number_of_unloads": 19,
+            "mining_time": 2976,
+            "travel_time": 1110,
+            "unload_time": 95,
+            "wait_time": 99
+        },
+        {
+            "id": 6,
+            "number_of_unloads": 18,
+            "mining_time": 3135,
+            "travel_time": 1080,
+            "unload_time": 90,
+            "wait_time": 0
+        },
+        {
+            "id": 7,
+            "number_of_unloads": 17,
+            "mining_time": 3071,
+            "travel_time": 990,
+            "unload_time": 85,
+            "wait_time": 28
+        },
+        {
+            "id": 8,
+            "number_of_unloads": 20,
+            "mining_time": 2933,
+            "travel_time": 1200,
+            "unload_time": 100,
+            "wait_time": 0
+        },
+        {
+            "id": 9,
+            "number_of_unloads": 18,
+            "mining_time": 3035,
+            "travel_time": 1050,
+            "unload_time": 90,
+            "wait_time": 68
+        },
+        {
+            "id": 10,
+            "number_of_unloads": 18,
+            "mining_time": 3021,
+            "travel_time": 1050,
+            "unload_time": 90,
+            "wait_time": 15
+        },
+        {
+            "id": 11,
+            "number_of_unloads": 18,
+            "mining_time": 3175,
+            "travel_time": 1050,
+            "unload_time": 90,
+            "wait_time": 0
+        },
+        {
+            "id": 12,
+            "number_of_unloads": 18,
+            "mining_time": 2994,
+            "travel_time": 1050,
+            "unload_time": 90,
+            "wait_time": 83
+        },
+        {
+            "id": 13,
+            "number_of_unloads": 17,
+            "mining_time": 3021,
+            "travel_time": 990,
+            "unload_time": 85,
+            "wait_time": 79
+        },
+        {
+            "id": 14,
+            "number_of_unloads": 18,
+            "mining_time": 2977,
+            "travel_time": 1080,
+            "unload_time": 90,
+            "wait_time": 0
+        },
+        {
+            "id": 15,
+            "number_of_unloads": 19,
+            "mining_time": 2916,
+            "travel_time": 1140,
+            "unload_time": 95,
+            "wait_time": 0
+        },
+        {
+            "id": 16,
+            "number_of_unloads": 18,
+            "mining_time": 3136,
+            "travel_time": 1080,
+            "unload_time": 90,
+            "wait_time": 0
+        },
+        {
+            "id": 17,
+            "number_of_unloads": 17,
+            "mining_time": 3167,
+            "travel_time": 1020,
+            "unload_time": 85,
+            "wait_time": 0
+        },
+        {
+            "id": 18,
+            "number_of_unloads": 16,
+            "mining_time": 3125,
+            "travel_time": 960,
+            "unload_time": 80,
+            "wait_time": 0
+        },
+        {
+            "id": 19,
+            "number_of_unloads": 16,
+            "mining_time": 3118,
+            "travel_time": 930,
+            "unload_time": 80,
+            "wait_time": 64
+        },
+        {
+            "id": 20,
+            "number_of_unloads": 18,
+            "mining_time": 3148,
+            "travel_time": 1050,
+            "unload_time": 90,
+            "wait_time": 19
+        },
+        {
+            "id": 21,
+            "number_of_unloads": 19,
+            "mining_time": 3009,
+            "travel_time": 1140,
+            "unload_time": 95,
+            "wait_time": 0
+        },
+        {
+            "id": 22,
+            "number_of_unloads": 17,
+            "mining_time": 3118,
+            "travel_time": 1020,
+            "unload_time": 85,
+            "wait_time": 0
+        },
+        {
+            "id": 23,
+            "number_of_unloads": 18,
+            "mining_time": 3014,
+            "travel_time": 1050,
+            "unload_time": 90,
+            "wait_time": 8
+        },
+        {
+            "id": 24,
+            "number_of_unloads": 16,
+            "mining_time": 3243,
+            "travel_time": 960,
+            "unload_time": 80,
+            "wait_time": 0
+        },
+        {
+            "id": 25,
+            "number_of_unloads": 19,
+            "mining_time": 3041,
+            "travel_time": 1110,
+            "unload_time": 95,
+            "wait_time": 48
+        },
+        {
+            "id": 26,
+            "number_of_unloads": 17,
+            "mining_time": 3042,
+            "travel_time": 1020,
+            "unload_time": 85,
+            "wait_time": 0
+        },
+        {
+            "id": 27,
+            "number_of_unloads": 18,
+            "mining_time": 3108,
+            "travel_time": 1050,
+            "unload_time": 90,
+            "wait_time": 45
+        },
+        {
+            "id": 28,
+            "number_of_unloads": 17,
+            "mining_time": 3076,
+            "travel_time": 1020,
+            "unload_time": 85,
+            "wait_time": 0
+        },
+        {
+            "id": 29,
+            "number_of_unloads": 16,
+            "mining_time": 3233,
+            "travel_time": 960,
+            "unload_time": 80,
+            "wait_time": 0
+        },
+        {
+            "id": 30,
+            "number_of_unloads": 16,
+            "mining_time": 3085,
+            "travel_time": 930,
+            "unload_time": 80,
+            "wait_time": 86
+        },
+        {
+            "id": 31,
+            "number_of_unloads": 18,
+            "mining_time": 3049,
+            "travel_time": 1050,
+            "unload_time": 90,
+            "wait_time": 89
+        },
+        {
+            "id": 32,
+            "number_of_unloads": 17,
+            "mining_time": 3135,
+            "travel_time": 990,
+            "unload_time": 85,
+            "wait_time": 88
+        },
+        {
+            "id": 33,
+            "number_of_unloads": 18,
+            "mining_time": 3165,
+            "travel_time": 1020,
+            "unload_time": 90,
+            "wait_time": 38
+        },
+        {
+            "id": 34,
+            "number_of_unloads": 18,
+            "mining_time": 3061,
+            "travel_time": 1050,
+            "unload_time": 90,
+            "wait_time": 23
+        },
+        {
+            "id": 35,
+            "number_of_unloads": 16,
+            "mining_time": 3238,
+            "travel_time": 900,
+            "unload_time": 80,
+            "wait_time": 79
+        },
+        {
+            "id": 36,
+            "number_of_unloads": 16,
+            "mining_time": 3196,
+            "travel_time": 960,
+            "unload_time": 80,
+            "wait_time": 0
+        },
+        {
+            "id": 37,
+            "number_of_unloads": 18,
+            "mining_time": 3076,
+            "travel_time": 1050,
+            "unload_time": 90,
+            "wait_time": 79
+        },
+        {
+            "id": 38,
+            "number_of_unloads": 18,
+            "mining_time": 2921,
+            "travel_time": 1080,
+            "unload_time": 90,
+            "wait_time": 0
+        },
+        {
+            "id": 39,
+            "number_of_unloads": 20,
+            "mining_time": 2851,
+            "travel_time": 1200,
+            "unload_time": 100,
+            "wait_time": 0
+        },
+        {
+            "id": 40,
+            "number_of_unloads": 18,
+            "mining_time": 2950,
+            "travel_time": 1050,
+            "unload_time": 90,
+            "wait_time": 97
+        },
+        {
+            "id": 41,
+            "number_of_unloads": 18,
+            "mining_time": 3114,
+            "travel_time": 1050,
+            "unload_time": 90,
+            "wait_time": 62
+        },
+        {
+            "id": 42,
+            "number_of_unloads": 19,
+            "mining_time": 3037,
+            "travel_time": 1140,
+            "unload_time": 95,
+            "wait_time": 0
+        },
+        {
+            "id": 43,
+            "number_of_unloads": 17,
+            "mining_time": 3211,
+            "travel_time": 1020,
+            "unload_time": 85,
+            "wait_time": 5
+        },
+        {
+            "id": 44,
+            "number_of_unloads": 17,
+            "mining_time": 3077,
+            "travel_time": 1020,
+            "unload_time": 85,
+            "wait_time": 0
+        },
+        {
+            "id": 45,
+            "number_of_unloads": 18,
+            "mining_time": 3092,
+            "travel_time": 1050,
+            "unload_time": 90,
+            "wait_time": 77
+        },
+        {
+            "id": 46,
+            "number_of_unloads": 15,
+            "mining_time": 3323,
+            "travel_time": 900,
+            "unload_time": 75,
+            "wait_time": 0
+        },
+        {
+            "id": 47,
+            "number_of_unloads": 17,
+            "mining_time": 3055,
+            "travel_time": 990,
+            "unload_time": 85,
+            "wait_time": 52
+        },
+        {
+            "id": 48,
+            "number_of_unloads": 18,
+            "mining_time": 3103,
+            "travel_time": 1020,
+            "unload_time": 90,
+            "wait_time": 82
+        },
+        {
+            "id": 49,
+            "number_of_unloads": 18,
+            "mining_time": 3048,
+            "travel_time": 1080,
+            "unload_time": 90,
+            "wait_time": 0
+        },
+        {
+            "id": 50,
+            "number_of_unloads": 19,
+            "mining_time": 3030,
+            "travel_time": 1110,
+            "unload_time": 95,
+            "wait_time": 43
+        },
+        {
+            "id": 51,
+            "number_of_unloads": 15,
+            "mining_time": 3184,
+            "travel_time": 870,
+            "unload_time": 75,
+            "wait_time": 5
+        },
+        {
+            "id": 52,
+            "number_of_unloads": 16,
+            "mining_time": 3052,
+            "travel_time": 930,
+            "unload_time": 80,
+            "wait_time": 87
+        },
+        {
+            "id": 53,
+            "number_of_unloads": 18,
+            "mining_time": 3140,
+            "travel_time": 1050,
+            "unload_time": 90,
+            "wait_time": 20
+        },
+        {
+            "id": 54,
+            "number_of_unloads": 14,
+            "mining_time": 3183,
+            "travel_time": 810,
+            "unload_time": 70,
+            "wait_time": 93
+        },
+        {
+            "id": 55,
+            "number_of_unloads": 17,
+            "mining_time": 3020,
+            "travel_time": 990,
+            "unload_time": 85,
+            "wait_time": 90
+        },
+        {
+            "id": 56,
+            "number_of_unloads": 20,
+            "mining_time": 2990,
+            "travel_time": 1170,
+            "unload_time": 100,
+            "wait_time": 20
+        },
+        {
+            "id": 57,
+            "number_of_unloads": 17,
+            "mining_time": 3101,
+            "travel_time": 990,
+            "unload_time": 85,
+            "wait_time": 97
+        },
+        {
+            "id": 58,
+            "number_of_unloads": 19,
+            "mining_time": 3022,
+            "travel_time": 1140,
+            "unload_time": 95,
+            "wait_time": 0
+        },
+        {
+            "id": 59,
+            "number_of_unloads": 17,
+            "mining_time": 3186,
+            "travel_time": 1020,
+            "unload_time": 85,
+            "wait_time": 0
+        },
+        {
+            "id": 60,
+            "number_of_unloads": 16,
+            "mining_time": 3218,
+            "travel_time": 930,
+            "unload_time": 80,
+            "wait_time": 83
+        },
+        {
+            "id": 61,
+            "number_of_unloads": 18,
+            "mining_time": 3113,
+            "travel_time": 1020,
+            "unload_time": 90,
+            "wait_time": 97
+        },
+        {
+            "id": 62,
+            "number_of_unloads": 18,
+            "mining_time": 2939,
+            "travel_time": 1080,
+            "unload_time": 90,
+            "wait_time": 0
+        },
+        {
+            "id": 63,
+            "number_of_unloads": 16,
+            "mining_time": 3165,
+            "travel_time": 960,
+            "unload_time": 80,
+            "wait_time": 0
+        },
+        {
+            "id": 64,
+            "number_of_unloads": 18,
+            "mining_time": 3126,
+            "travel_time": 1080,
+            "unload_time": 90,
+            "wait_time": 24
+        },
+        {
+            "id": 65,
+            "number_of_unloads": 18,
+            "mining_time": 3116,
+            "travel_time": 1050,
+            "unload_time": 90,
+            "wait_time": 49
+        },
+        {
+            "id": 66,
+            "number_of_unloads": 14,
+            "mining_time": 3324,
+            "travel_time": 840,
+            "unload_time": 70,
+            "wait_time": 0
+        },
+        {
+            "id": 67,
+            "number_of_unloads": 18,
+            "mining_time": 2952,
+            "travel_time": 1050,
+            "unload_time": 90,
+            "wait_time": 50
+        },
+        {
+            "id": 68,
+            "number_of_unloads": 18,
+            "mining_time": 2909,
+            "travel_time": 1050,
+            "unload_time": 90,
+            "wait_time": 49
+        },
+        {
+            "id": 69,
+            "number_of_unloads": 18,
+            "mining_time": 3134,
+            "travel_time": 1080,
+            "unload_time": 90,
+            "wait_time": 0
+        },
+        {
+            "id": 70,
+            "number_of_unloads": 16,
+            "mining_time": 3239,
+            "travel_time": 930,
+            "unload_time": 80,
+            "wait_time": 45
+        },
+        {
+            "id": 71,
+            "number_of_unloads": 18,
+            "mining_time": 3136,
+            "travel_time": 1080,
+            "unload_time": 90,
+            "wait_time": 0
+        },
+        {
+            "id": 72,
+            "number_of_unloads": 15,
+            "mining_time": 3031,
+            "travel_time": 870,
+            "unload_time": 75,
+            "wait_time": 88
+        },
+        {
+            "id": 73,
+            "number_of_unloads": 17,
+            "mining_time": 3205,
+            "travel_time": 1020,
+            "unload_time": 85,
+            "wait_time": 0
+        },
+        {
+            "id": 74,
+            "number_of_unloads": 17,
+            "mining_time": 3208,
+            "travel_time": 990,
+            "unload_time": 85,
+            "wait_time": 19
+        },
+        {
+            "id": 75,
+            "number_of_unloads": 19,
+            "mining_time": 3059,
+            "travel_time": 1140,
+            "unload_time": 95,
+            "wait_time": 0
+        },
+        {
+            "id": 76,
+            "number_of_unloads": 16,
+            "mining_time": 3259,
+            "travel_time": 960,
+            "unload_time": 80,
+            "wait_time": 0
+        },
+        {
+            "id": 77,
+            "number_of_unloads": 17,
+            "mining_time": 3220,
+            "travel_time": 990,
+            "unload_time": 85,
+            "wait_time": 0
+        },
+        {
+            "id": 78,
+            "number_of_unloads": 20,
+            "mining_time": 2995,
+            "travel_time": 1170,
+            "unload_time": 100,
+            "wait_time": 33
+        },
+        {
+            "id": 79,
+            "number_of_unloads": 15,
+            "mining_time": 3361,
+            "travel_time": 840,
+            "unload_time": 75,
+            "wait_time": 18
+        },
+        {
+            "id": 80,
+            "number_of_unloads": 18,
+            "mining_time": 3124,
+            "travel_time": 1050,
+            "unload_time": 90,
+            "wait_time": 52
+        },
+        {
+            "id": 81,
+            "number_of_unloads": 16,
+            "mining_time": 3210,
+            "travel_time": 930,
+            "unload_time": 80,
+            "wait_time": 81
+        },
+        {
+            "id": 82,
+            "number_of_unloads": 17,
+            "mining_time": 3084,
+            "travel_time": 990,
+            "unload_time": 85,
+            "wait_time": 49
+        },
+        {
+            "id": 83,
+            "number_of_unloads": 16,
+            "mining_time": 3101,
+            "travel_time": 930,
+            "unload_time": 80,
+            "wait_time": 94
+        },
+        {
+            "id": 84,
+            "number_of_unloads": 17,
+            "mining_time": 3150,
+            "travel_time": 990,
+            "unload_time": 85,
+            "wait_time": 40
+        },
+        {
+            "id": 85,
+            "number_of_unloads": 16,
+            "mining_time": 3171,
+            "travel_time": 930,
+            "unload_time": 80,
+            "wait_time": 58
+        },
+        {
+            "id": 86,
+            "number_of_unloads": 15,
+            "mining_time": 3198,
+            "travel_time": 870,
+            "unload_time": 75,
+            "wait_time": 73
+        },
+        {
+            "id": 87,
+            "number_of_unloads": 16,
+            "mining_time": 3049,
+            "travel_time": 930,
+            "unload_time": 80,
+            "wait_time": 85
+        },
+        {
+            "id": 88,
+            "number_of_unloads": 16,
+            "mining_time": 3280,
+            "travel_time": 960,
+            "unload_time": 80,
+            "wait_time": 0
+        },
+        {
+            "id": 89,
+            "number_of_unloads": 19,
+            "mining_time": 2981,
+            "travel_time": 1140,
+            "unload_time": 95,
+            "wait_time": 0
+        },
+        {
+            "id": 90,
+            "number_of_unloads": 19,
+            "mining_time": 2960,
+            "travel_time": 1110,
+            "unload_time": 95,
+            "wait_time": 73
+        },
+        {
+            "id": 91,
+            "number_of_unloads": 16,
+            "mining_time": 3245,
+            "travel_time": 930,
+            "unload_time": 80,
+            "wait_time": 44
+        },
+        {
+            "id": 92,
+            "number_of_unloads": 16,
+            "mining_time": 3106,
+            "travel_time": 930,
+            "unload_time": 80,
+            "wait_time": 93
+        },
+        {
+            "id": 93,
+            "number_of_unloads": 19,
+            "mining_time": 3106,
+            "travel_time": 1080,
+            "unload_time": 95,
+            "wait_time": 23
+        },
+        {
+            "id": 94,
+            "number_of_unloads": 16,
+            "mining_time": 3136,
+            "travel_time": 930,
+            "unload_time": 80,
+            "wait_time": 85
+        },
+        {
+            "id": 95,
+            "number_of_unloads": 18,
+            "mining_time": 3099,
+            "travel_time": 1050,
+            "unload_time": 90,
+            "wait_time": 80
+        },
+        {
+            "id": 96,
+            "number_of_unloads": 19,
+            "mining_time": 3106,
+            "travel_time": 1110,
+            "unload_time": 95,
+            "wait_time": 0
+        },
+        {
+            "id": 97,
+            "number_of_unloads": 15,
+            "mining_time": 3277,
+            "travel_time": 870,
+            "unload_time": 75,
+            "wait_time": 89
+        },
+        {
+            "id": 98,
+            "number_of_unloads": 16,
+            "mining_time": 3217,
+            "travel_time": 930,
+            "unload_time": 80,
+            "wait_time": 93
+        },
+        {
+            "id": 99,
+            "number_of_unloads": 16,
+            "mining_time": 3126,
+            "travel_time": 930,
+            "unload_time": 80,
+            "wait_time": 96
+        },
+        {
+            "id": 100,
+            "number_of_unloads": 17,
+            "mining_time": 2963,
+            "travel_time": 990,
+            "unload_time": 85,
+            "wait_time": 95
+        },
+        {
+            "id": 101,
+            "number_of_unloads": 18,
+            "mining_time": 3053,
+            "travel_time": 1080,
+            "unload_time": 90,
+            "wait_time": 0
+        },
+        {
+            "id": 102,
+            "number_of_unloads": 18,
+            "mining_time": 2976,
+            "travel_time": 1050,
+            "unload_time": 90,
+            "wait_time": 88
+        },
+        {
+            "id": 103,
+            "number_of_unloads": 18,
+            "mining_time": 2947,
+            "travel_time": 1050,
+            "unload_time": 90,
+            "wait_time": 49
+        },
+        {
+            "id": 104,
+            "number_of_unloads": 16,
+            "mining_time": 3161,
+            "travel_time": 930,
+            "unload_time": 80,
+            "wait_time": 83
+        },
+        {
+            "id": 105,
+            "number_of_unloads": 17,
+            "mining_time": 3129,
+            "travel_time": 990,
+            "unload_time": 85,
+            "wait_time": 55
+        },
+        {
+            "id": 106,
+            "number_of_unloads": 16,
+            "mining_time": 3271,
+            "travel_time": 960,
+            "unload_time": 80,
+            "wait_time": 0
+        },
+        {
+            "id": 107,
+            "number_of_unloads": 15,
+            "mining_time": 3201,
+            "travel_time": 870,
+            "unload_time": 75,
+            "wait_time": 82
+        },
+        {
+            "id": 108,
+            "number_of_unloads": 17,
+            "mining_time": 3073,
+            "travel_time": 990,
+            "unload_time": 85,
+            "wait_time": 24
+        },
+        {
+            "id": 109,
+            "number_of_unloads": 20,
+            "mining_time": 3038,
+            "travel_time": 1170,
+            "unload_time": 100,
+            "wait_time": 0
+        },
+        {
+            "id": 110,
+            "number_of_unloads": 15,
+            "mining_time": 3251,
+            "travel_time": 870,
+            "unload_time": 75,
+            "wait_time": 89
+        },
+        {
+            "id": 111,
+            "number_of_unloads": 17,
+            "mining_time": 3048,
+            "travel_time": 990,
+            "unload_time": 85,
+            "wait_time": 74
+        },
+        {
+            "id": 112,
+            "number_of_unloads": 18,
+            "mining_time": 3145,
+            "travel_time": 1080,
+            "unload_time": 90,
+            "wait_time": 0
+        },
+        {
+            "id": 113,
+            "number_of_unloads": 17,
+            "mining_time": 3104,
+            "travel_time": 990,
+            "unload_time": 85,
+            "wait_time": 88
+        },
+        {
+            "id": 114,
+            "number_of_unloads": 18,
+            "mining_time": 3043,
+            "travel_time": 1050,
+            "unload_time": 90,
+            "wait_time": 75
+        },
+        {
+            "id": 115,
+            "number_of_unloads": 17,
+            "mining_time": 3246,
+            "travel_time": 960,
+            "unload_time": 85,
+            "wait_time": 10
+        },
+        {
+            "id": 116,
+            "number_of_unloads": 16,
+            "mining_time": 3140,
+            "travel_time": 960,
+            "unload_time": 80,
+            "wait_time": 0
+        },
+        {
+            "id": 117,
+            "number_of_unloads": 19,
+            "mining_time": 3046,
+            "travel_time": 1110,
+            "unload_time": 95,
+            "wait_time": 53
+        },
+        {
+            "id": 118,
+            "number_of_unloads": 17,
+            "mining_time": 3204,
+            "travel_time": 960,
+            "unload_time": 85,
+            "wait_time": 55
+        },
+        {
+            "id": 119,
+            "number_of_unloads": 17,
+            "mining_time": 3138,
+            "travel_time": 990,
+            "unload_time": 85,
+            "wait_time": 88
+        },
+        {
+            "id": 120,
+            "number_of_unloads": 16,
+            "mining_time": 3148,
+            "travel_time": 930,
+            "unload_time": 80,
+            "wait_time": 85
+        },
+        {
+            "id": 121,
+            "number_of_unloads": 17,
+            "mining_time": 3084,
+            "travel_time": 990,
+            "unload_time": 85,
+            "wait_time": 39
+        },
+        {
+            "id": 122,
+            "number_of_unloads": 17,
+            "mining_time": 3034,
+            "travel_time": 990,
+            "unload_time": 85,
+            "wait_time": 85
+        },
+        {
+            "id": 123,
+            "number_of_unloads": 17,
+            "mining_time": 3182,
+            "travel_time": 1020,
+            "unload_time": 85,
+            "wait_time": 0
+        },
+        {
+            "id": 124,
+            "number_of_unloads": 18,
+            "mining_time": 2998,
+            "travel_time": 1050,
+            "unload_time": 90,
+            "wait_time": 95
+        }
+    ],
+    "stations": [
+        {
+            "id": 0,
+            "trucks_processed": 419,
+            "max_queue": 17
+        },
+        {
+            "id": 1,
+            "trucks_processed": 298,
+            "max_queue": 17
+        }
+    ]
+}
